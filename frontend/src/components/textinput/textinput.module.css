@@ -1,0 +1,13 @@
+.border {
+  height: 200px;
+  border-radius: 10px;
+  box-shadow: 0 0 0 1px #fff;
+  border: 1px solid transparent;
+  color: white;
+  resize: none;
+}
+
+.labelfor {
+  font-size: 1rem;
+  color: white;
+}

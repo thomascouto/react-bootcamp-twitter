@@ -1,0 +1,13 @@
+.item {
+  font-size: 1.5rem;
+  color: black;
+  background-color: teal;
+}
+
+.icon {
+  color: #f03434;
+}
+
+.cur {
+  cursor: pointer;
+}
